@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a **Computer Science Engineering student** at Università Guglielmo Marconi, specializing in **Artificial Intelligence**. Interested in the intersection of AI and security, and continuously expanding my technical toolkit.
+I'm a **Computer Science Engineering student** at Università Guglielmo Marconi, specializing in **Artificial Intelligence**. Continuously expanding my technical toolkit.
 
 - 🚀 Currently deepening my skills in Java and Python
 - 🇮🇹 Based in Italy
