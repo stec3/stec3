@@ -1,11 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Stefano%20Carta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineering%20%7C%20AI%20%26%20Cybersecurity&descAlignY=60&descSize=18&descColor=a0a8c0" width="100%"/>
-
-</div>
-
-<br/>
-
 ## About Me
 
 I'm a **Computer Science Engineering student** at Università Guglielmo Marconi, specializing in **Artificial Intelligence**. Continuously expanding my technical toolkit.
