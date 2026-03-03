@@ -1,9 +1,17 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Hi,%20I'm%20Stefano&fontSize=36&fontColor=ffffff&fontAlignY=40"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+Specialization;Based+in+Italy)](https://git.io/typing-svg)
+
+</div>
+
 ## About Me
 
 I'm a **Computer Science Engineering student** at Università Guglielmo Marconi, specializing in **Artificial Intelligence**. Continuously expanding my technical toolkit.
 
-- 🚀 Currently deepening my skills in Java and Python
-- 🇮🇹 Based in Italy
+- Currently deepening my skills in Java and Python
+- Based in Italy
 
 <br/>
 
@@ -30,15 +38,17 @@ I'm a **Computer Science Engineering student** at Università Guglielmo Marconi,
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=stec3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="165"/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=stec3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=1800" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stec3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stec3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stec3&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" height="165"/>
+<img src="https://streak-stats.demolab.com?user=stec3&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" height="165"/>
 
 </div>
 
