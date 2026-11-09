@@ -31,4 +31,4 @@ Meanwhile I'm studying the languages underneath: **Java, Python and SQL** at uni
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/stefano-carta-0a8055313/) · [Email](mailto:ste.carta50@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/stefanocarta-ai/) · [Email](mailto:ste.carta50@gmail.com)
