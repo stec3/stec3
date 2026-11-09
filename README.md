@@ -10,7 +10,7 @@
 
 I build software with AI, mostly with Claude Code: I decide what to build, guide the AI as it writes the code, then test, fix and improve until the result is what I had in mind.
 
-Meanwhile I'm studying the languages underneath: **Java, Python and SQL** at university (Computer Engineering, Artificial Intelligence track) and **Apex and SOQL** through Salesforce courses.
+Meanwhile I'm studying the languages underneath: **Java, Python and SQL** at university (Computer Engineering, Artificial Intelligence track) and **Apex and SOQL** on [Salesforce Trailhead](https://www.salesforce.com/trailblazer/oxh7aymfpduzlu51fu).
 
 ### Currently learning
 
